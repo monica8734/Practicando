@@ -10,7 +10,15 @@ package practicandogit;
  * @author Usuario
  */
 public class PracticandoGIT {
+    private int numero1;
 
+    public int getNumero1() {
+        return numero1;
+    }
+
+    public void setNumero1(int numero1) {
+        this.numero1 = numero1;
+    }
     /**
      * @param args the command line arguments
      */
