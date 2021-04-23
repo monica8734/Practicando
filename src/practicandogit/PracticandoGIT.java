@@ -10,7 +10,7 @@ package practicandogit;
  * @author Usuario
  */
 public class PracticandoGIT {
-    private int numero1;
+    private int numero1,numero2;
     private String mensaje;
     private double cantidad;
 
