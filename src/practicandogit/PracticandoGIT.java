@@ -12,6 +12,7 @@ package practicandogit;
 public class PracticandoGIT {
     private int numero1;
     private String mensaje;
+    
 
     public int getNumero1() {
         return numero1;
