@@ -18,6 +18,9 @@ public class PracticandoGIT {
     public int getNumero1() {
         return numero1;
     }
+ public int getNumero2() {
+        return numero2;
+    }
 
     public void setNumero1(int numero1) {
         this.numero1 = numero1;
