@@ -10,6 +10,26 @@ package practicandogit;
  * @author Usuario
  */
 public class PracticandoGIT {
+
+    private String variableNueva = "hola Mundo" ;
+
+    /**
+     * Get the value of variableNueva
+     *
+     * @return the value of variableNueva
+     */
+    public String getVariableNueva() {
+        return variableNueva;
+    }
+
+    /**
+     * Set the value of variableNueva
+     *
+     * @param variableNueva new value of variableNueva
+     */
+    public void setVariableNueva(String variableNueva) {
+        this.variableNueva = variableNueva;
+    }
     private int numero1,numero2,numero3;
 
     private String mensaje;
