@@ -22,8 +22,8 @@ public class PracticandoGIT {
         return numero2;
     }
   
-    public int getNumero5() {
-        return numero5;
+    public int getNumero3() {
+        return numero3;
 
     }
 
