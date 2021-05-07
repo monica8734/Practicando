@@ -12,7 +12,7 @@ package practicandogit;
 public class PracticandoGIT {
 
     private String variableNueva = "hola Mundo" ;
-
+    private String variable2 = "";
     /**
      * Get the value of variableNueva
      *
