@@ -18,8 +18,11 @@ public class PracticandoGIT {
     public int getNumero1() {
         return numero1;
     }
- public int getNumero2() {
+    public int getNumero2() {
         return numero2;
+    }
+    public int getNumero5() {
+        return numero5;
     }
 
     public void setNumero1(int numero1) {
