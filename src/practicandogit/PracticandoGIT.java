@@ -13,6 +13,7 @@ public class PracticandoGIT {
 
     private String variableNueva = "hola Mundo" ;
     private String variable2 = "";
+    private String variable3="Nueva variable desde GitKraken";
     /**
      * Get the value of variableNueva
      *
